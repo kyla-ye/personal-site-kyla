@@ -15,8 +15,7 @@ h1 {
 }
 
 p {
-  text-align=justify
-}
+  text-align=justify;}
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header {
@@ -25,6 +24,8 @@ p {
 .port-header {
   
 }
+
+
  font-size: 15 em;
 
 
@@ -37,3 +38,4 @@ p {
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+;
