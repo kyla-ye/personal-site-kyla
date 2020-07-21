@@ -19,7 +19,7 @@ p {
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header {
-  background-image: url("https://cdn.glitch.com/4d0bb630-2067-4ed3-8db0-46a7ca0c3196%2FIMG_2837.PNG?v=1595299682286");
+  background-image: url("https://cdn.glitch.com/4d0bb630-2067-4ed3-8db0-46a7ca0c3196%2FIMG_2837.PNG?v=1595299682286") width="1903px" height="2000px";
 }
 .port-header {
   
@@ -39,14 +39,14 @@ p {
 
 ul {
   list-style-type: none;
-  background-color: #6850B7;
+  background-color: #FFFFFF;
 }
 li {
   display:inline;
 }
 li a {
   text-decoration:none;
-  color: #FFFFFF;
+  color: #6850B7;
 }
 
 *TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
