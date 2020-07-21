@@ -6,9 +6,12 @@
 /*TODO: Add a background color or image to your website*/
 body {
  background-color: #FFFFFF; 
+text-align: center;
 }
 
-
+h1 {
+  color: #6850B7;
+}
 
 
 
@@ -20,9 +23,8 @@ body {
   font-size:15 em;
   color: #6850B7;
 }
-.port-header{
-  background-color: #FFFFFF
-}
+
+
 .about-me{
   font-size: ;
   color: # ;
