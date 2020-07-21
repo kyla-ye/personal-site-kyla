@@ -16,17 +16,17 @@ h1 {
   
 }
 .heading {
-  padding-top: 2em;
-  font-size:15em;
+  font-size:225px;
+  border: 2px solid white;
 }
 p {
-  padding-left: 50em;
-  padding-right: 50em;}
+  padding-left: 45em;
+  padding-right: 45em;}
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header {
   background-image: url("https://cdn.glitch.com/4d0bb630-2067-4ed3-8db0-46a7ca0c3196%2FIMG_2837.PNG?v=1595299682286");
-}  background-repeat: no-repeat;
+}  background-repeat: round;
   background-size: cover;
 
 .port-header {
