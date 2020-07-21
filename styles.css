@@ -1,48 +1,39 @@
-*{ 
+* {
   margin: 0px;
-  padding:0px;
+  padding: 0px;
 }
 
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #FFFFFF; 
-text-align: center;
+  background-color: #FFFFFF;
+  text-align: center;
+  color: #6850B7;
 }
 
 h1 {
-  color: #6850B7;
+  
 }
 
-
+p {
+  text-align=justify
+}
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
-.header{
-      background-image: url("https://cdn.glitch.com/4d0bb630-2067-4ed3-8db0-46a7ca0c3196%2FIMG_2837.PNG?v=1595299682286";
-}    
-  
-  font-size:15 em;
-  color: #6850B7;
-
-
-
-.about-me{
-  font-size: ;
-  color: # ;
+.header {
+  background-image: url("https://cdn.glitch.com/4d0bb630-2067-4ed3-8db0-46a7ca0c3196%2FIMG_2837.PNG?v=1595299682286");
+}
+.port-header {
   
 }
+ font-size: 15 em;
+
+
+
 
 /*TODO: Use the * selector to reset the margin and padding to 0px*/
 
-
-
 /*TODO: Add styling rules for the text and images on your website.*/
-
-
-
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
-
-
-
-/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ 
+/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
