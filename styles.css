@@ -16,13 +16,13 @@ h1 {
 
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
-#my-pic{
+.header{
       background-image: url("https://cdn.glitch.com/4d0bb630-2067-4ed3-8db0-46a7ca0c3196%2FIMG_2837.PNG?v=1595299682286";
 }    
-.heading{
+  
   font-size:15 em;
   color: #6850B7;
-}
+
 
 
 .about-me{
