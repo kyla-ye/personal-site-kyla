@@ -21,7 +21,7 @@ p {
   padding-top: 1em;
   padding-left: 10em;
   padding-right: 10em;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
@@ -50,3 +50,4 @@ li a {
 }
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+display:f
