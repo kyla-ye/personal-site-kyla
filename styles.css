@@ -15,6 +15,7 @@ body {
   border: 2px solid white;
 }
 p {
+  padding-top: 2em;
   padding-left: 45em;
   padding-right: 45em;}
 
@@ -36,14 +37,15 @@ p {
 
 ul {
   list-style-type: none;
-  background-color: #FFFFFF;
+  background-color: #6850B7;
 }
 li {
-  display:inline;
+  display: inline;
 }
 li a {
   text-decoration:none;
-  color: #6850B7;
+  color: #FFFFFF;
+  font-size: 30px;
 }
 
 *TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
