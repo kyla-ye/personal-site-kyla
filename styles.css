@@ -11,13 +11,17 @@ body {
 }
 
 .heading {
-  font-size: 200px;
-  border:px solid white;
+  font-size: 290px;
+  border: 3px solid white;
+}
+.port-heading {
+  font-size: 50px;
 }
 p {
   padding-top: 1em;
-  padding-left: 45em;
-  padding-right: 45em;
+  padding-left: 10em;
+  padding-right: 10em;
+  font-size: 30px;
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
@@ -42,7 +46,7 @@ li {
 li a {
   text-decoration: none;
   color: #FFFFFF;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
